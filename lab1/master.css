@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: orange;
+}
+
+nav ul{
+    padding: 0;
+}
+
+nav ul li{
+    list-style-type: none; 
+    display: inline-block;
+    width: 50vw;
+}
+
+.features-list{
+    text-align: left;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+}
+
