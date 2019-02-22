@@ -13,6 +13,11 @@ nav ul li{
     display: inline-block;
     width: 50vw;
 }
+nav ul li a{
+    text-decoration: none;
+    color: orange;
+    font-size: 1.3em;
+}
 
 .features-list{
     text-align: left;
