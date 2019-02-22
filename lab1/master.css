@@ -19,6 +19,9 @@ nav ul li a{
     color: orange;
     font-size: 1.3em;
 }
+nav ul li a:hover{
+    color: yellow;
+}
 
 .features-list{
     text-align: left;
